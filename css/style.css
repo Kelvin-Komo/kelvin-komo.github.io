@@ -589,13 +589,3 @@ h6,
 .footer .footer-menu a:hover {
     color: var(--secondary);
 }
-.column {
-    float: left;
-    width: 50.33%;
-    padding: 5px;
-  }
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
